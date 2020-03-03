@@ -1,6 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="tables.dtd" location="$USER_HOME$/Courses/DBMS/Assignment-4/tables.dtd" />
-    <ignored-resource url="tables.dtd" />
-  </component>
-</application>
