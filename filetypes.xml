@@ -3,7 +3,10 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="TodoDelete" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="TodoDelete.js" type="PLAIN_TEXT" />
+      <mapping pattern="js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
